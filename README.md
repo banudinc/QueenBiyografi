@@ -1,2 +1,2 @@
 # QueenBiyografi
- Queen grubu ve grup üyelerinin biyografisi
+ Queen grubu ve grup üyelerinin biyografisi (Bootstrap)
