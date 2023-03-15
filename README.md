@@ -1,2 +1,2 @@
 # QueenBiyografi
- Queen Biyografi
+ Queen grubu ve grup üyelerinin biyografisi
